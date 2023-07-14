@@ -1,0 +1,5 @@
+file:src/test/resources/features/automationexercises/automationexercise6_11.feature:4
+file:src/test/resources/features/automationexercises/automationexercise1_5.feature:17:18
+file:src/test/resources/features/automationexercises/automationexercise25_26.feature:4
+file:src/test/resources/features/automationexercises/automationexercise20_24.feature:13:30:40
+file:src/test/resources/features/automationexercises/automationexercise12_16.feature:4:18:34
